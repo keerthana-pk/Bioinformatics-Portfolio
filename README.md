@@ -13,8 +13,7 @@ Research Data Intern — ICAR, Sugarcane Breeding Institute (May–June 2025)
 
 ## Projects
 1. Genome-wide analysis of the ERF gene family
-- View report: ERF-Gene-Family-Project-Report.pdf.pdf
-
+- [View Project Report (PDF)](ERF-Gene-Family-Project-Report.pdf.pdf)
 2. Coleoptera ecological field data collection and analysis
 
 ## Contact
