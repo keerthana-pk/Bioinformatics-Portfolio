@@ -8,7 +8,7 @@ Welcome to my professional portfolio. I am an M.Sc. Bioinformatics graduate pass
 *   **Focus:** Analysis of genomic data to understand gene family characteristics and biological functions.
 *   **Key Activities:** Data retrieval from NCBI, UniProt, and PDB; statistical validation and consistency checks.
 *   **Outcome:** Comprehensive research report on gene expression and sequence analysis.
-*   **[View Project Report (PDF)](ERF-Gene-Family-Project-Report.pdf)**  
+*   **[View Project Report (PDF)](ERF-Gene-Family-Project-Report.pdf.pdf)** 
 
 ### 2. Field Data Collection & Analysis — Coleoptera Ecological Survey
 *   **Focus:** primary research on behavioral and distribution patterns.
