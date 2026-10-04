@@ -1,30 +1,22 @@
-# Keerthana P K - Bioinformatics Portfolio 🧬
+# Keerthana P K
+M.Sc. Bioinformatics | Biological Data Analysis | Scientific Documentation
 
-Welcome to my professional portfolio. I am an M.Sc. Bioinformatics graduate passionate about the intersection of Genomics, Proteomics, and Drug Discovery. This repository serves as a digital archive of my research and computational work.
+## Education
+- M.Sc. Bioinformatics — Sri Krishna Arts and Science College, Coimbatore (2024–2026)
+- B.Sc. Zoology — NSS College Ottappalam, University of Calicut (2021–2024)
 
-## 📂 Featured Projects
+## Experience
+Research Data Intern — ICAR, Sugarcane Breeding Institute (May–June 2025)
+- Biological data analysis and quality checks
+- Cross-referencing NCBI, UniProt, PDB
+- Scientific documentation and technical reports
 
-### 1. Genome-Wide Data Analysis — ERF Gene Family
-*   **Focus:** Analysis of genomic data to understand gene family characteristics and biological functions.
-*   **Key Activities:** Data retrieval from NCBI, UniProt, and PDB; statistical validation and consistency checks.
-*   **Outcome:** Comprehensive research report on gene expression and sequence analysis.
-*   **[View Project Report (PDF)](ERF-Gene-Family-Project-Report.pdf.pdf)** 
+## Projects
+1. Genome-wide analysis of the ERF gene family
+- View report: ERF-Gene-Family-Project-Report.pdf.pdf
 
-### 2. Field Data Collection & Analysis — Coleoptera Ecological Survey
-*   **Focus:** primary research on behavioral and distribution patterns.
-*   **Key Activities:** Designing sampling protocols, systematic data collection, and trend analysis.
-*   **Outcome:** Technical report communicating real-world biological findings.
-   
+2. Coleoptera ecological field data collection and analysis
 
-### 3. Research Internship — ICAR, Sugarcane Breeding Institute
-*   **Focus:** Biological data verification and scientific documentation.
-*   **Key Activities:** Managing large-scale structured datasets and cross-referencing biological databases to ensure data integrity.
-
-## 🛠️ Technical Toolkit
-*   **Databases:** NCBI, UniProt, PDB, PubMed.
-*   **Analysis:** Data Cleansing, Statistical Validation, Sequence Analysis.
-*   **Tools:** Microsoft Excel (Advanced), Word, PowerPoint, Bioinformatics Software.
-*   **Domain:** Life Sciences, Genomics, Proteomics, Drug Discovery.
-
----
-*I am actively seeking opportunities to contribute to innovative Life Science products and R&D activities.*
+## Contact
+keerthanakanakadas@gmail.com
+https://linkedin.com/in/keerthanakanakadas
